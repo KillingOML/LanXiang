@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0857F493-E218-4BE8-ABF6-4FA2D66911AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ogle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB4319B1-F1E6-4371-9183-FAA277D31D7F</key>
+		<string>svn://10.105.20.200:9999/svn/trunk/LoanManager/Ogle</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ogle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB4319B1-F1E6-4371-9183-FAA277D31D7F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>FB4319B1-F1E6-4371-9183-FAA277D31D7F</key>
+		<string>svn://10.105.20.200:9999/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://10.105.20.200:9999/svn/trunk/LoanManager/Ogle/Ogle.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB4319B1-F1E6-4371-9183-FAA277D31D7F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB4319B1-F1E6-4371-9183-FAA277D31D7F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ogle</string>
+		</dict>
+	</array>
+</dict>
+</plist>

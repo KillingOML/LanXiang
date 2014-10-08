@@ -1,0 +1,70 @@
+10
+
+dir
+0
+svn://10.105.20.200:9999/svn/trunk/LoanManager/Ogle/Ogle/libs
+svn://10.105.20.200:9999/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fffb0369-5bb4-43a1-88ca-694650237936
+
+kazmath
+dir
+
+
+
+add
+
+LICENSE_Kazmath.txt
+file
+
+
+
+add
+
+cocos2d
+dir
+
+
+
+add
+
+LICENSE_cocos2d.txt
+file
+
+
+
+add
+
+CocosDenshion
+dir
+
+
+
+add
+
+LICENSE_CocosDenshion.txt
+file
+
+
+
+add
+

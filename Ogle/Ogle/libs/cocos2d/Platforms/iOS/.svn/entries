@@ -1,0 +1,112 @@
+10
+
+dir
+0
+svn://10.105.20.200:9999/svn/trunk/LoanManager/Ogle/Ogle/libs/cocos2d/Platforms/iOS
+svn://10.105.20.200:9999/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fffb0369-5bb4-43a1-88ca-694650237936
+
+CCES2Renderer.m
+file
+
+
+
+add
+
+CCTouchHandler.m
+file
+
+
+
+add
+
+CCDirectorIOS.h
+file
+
+
+
+add
+
+CCTouchDispatcher.h
+file
+
+
+
+add
+
+CCDirectorIOS.m
+file
+
+
+
+add
+
+CCGLView.h
+file
+
+
+
+add
+
+CCESRenderer.h
+file
+
+
+
+add
+
+CCTouchDispatcher.m
+file
+
+
+
+add
+
+CCTouchDelegateProtocol.h
+file
+
+
+
+add
+
+CCES2Renderer.h
+file
+
+
+
+add
+
+CCTouchHandler.h
+file
+
+
+
+add
+
+CCGLView.m
+file
+
+
+
+add
+

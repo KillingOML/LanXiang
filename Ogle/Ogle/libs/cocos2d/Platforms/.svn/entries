@@ -1,0 +1,56 @@
+10
+
+dir
+0
+svn://10.105.20.200:9999/svn/trunk/LoanManager/Ogle/Ogle/libs/cocos2d/Platforms
+svn://10.105.20.200:9999/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fffb0369-5bb4-43a1-88ca-694650237936
+
+Mac
+dir
+
+
+
+add
+
+iOS
+dir
+
+
+
+add
+
+CCNS.h
+file
+
+
+
+add
+
+CCGL.h
+file
+
+
+
+add
+
